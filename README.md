@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning back-end web development to attain the necessary coding skills
 - 💞️ I’m looking to collaborate on projects relating to AI/ML
 - 📫 How to reach me: oukopinto@gmail.com
-- 😄 Pronouns: Mr
+- 😄 Pronouns: I'm a man, you could use whatever pleases you :)
 - ⚡ Fun fact: I don't bite, let's get down and do something great
 
 <!---
