@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oukookowa
-- 👀 I’m interested in writing code to solve real-world problems
+- 👀 I’m passionate about writing code to solve real-world problems
 - 🌱 I’m currently learning back-end web development to attain the necessary coding skills
 - 💞️ I’m looking to collaborate on projects relating to AI/ML
 - 📫 How to reach me: oukopinto@gmail.com
